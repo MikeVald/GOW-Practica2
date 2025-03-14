@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  GOW
+
+  Created by Edgar Michael Pérez Valdez on 08/03/25.
+  
+*/
+
+/* MENU*/
+"menu.option.videogames" = "비디오 게임";
+"menu.option.weapons" = "무기";
+"menu.option.characters" = "캐릭터";
+"menu.option.merchandise" = "상품";
+
+/* WEAPONS */
+"weapon.name.boomshot" = "붐샷 수류탄 발사기";
+"weapon.description.boomshot" = "주로 Locust, 특히 Boomer가 사용한 단발 펌프 수류탄 발사기였다.";
+"weapon.name.hammerburstii" = "Hammerburst II";
+"weapon.description.hammerburstii" = "강력한 표준 Locust 돌격소총이었다. 종종 COG Lancer 돌격소총의 Locust 대응 모델로 불린다.";
+"weapon.name.mulcher" = "Mulcher";
+"weapon.description.mulcher" = "Mulcher는 명령된 정부 연합이 개발한 핸드 크랭크 회전식 중장갑 Gatling 소총이다.";
+"weapon.name.bolo_grenade" = "볼로 수류탄";
+"weapon.description.bolo_grenade" = "볼로 수류탄, 또는 파편 수류탄으로 알려진 이 무기는 명령된 정부 연합, Locust 군단 및 Sciame에 의해 사용된 표준 파편 수류탄이었다.";
+"weapon.name.boltok" = "볼톡 권총";
+"weapon.description.boltok" = "Locust의 표준 무기, 특히 드론용 무기였다. 이 권총은 Locust 무기 설계 철학인 강력한 물리적 힘에 중점을 둔 방식을 이어간다.";
+"weapon.name.lancer" = "Lancer Mark 1 돌격소총";
+"weapon.description.lancer" = "Lambent Pandemic 기간 동안 Retro Lancer로 불렸으며, Lancer Mark 2 돌격소총의 전신이었다. 이전에는 명령된 정부 연합군의 주력 돌격소총으로 사용되었으며, Pendulum 전쟁 동안 사용되었다.";
+"weapon.name.lancer2" = "Lancer Mark 2 돌격소총";
+"weapon.description.lancer2" = "Lancer Mark 1 돌격소총의 업그레이드 모델로, 전기톱형 총검, 더 높은 정확도, 낮은 반동, 그리고 더 큰 탄창 용량을 갖추었지만 전신에 비해 화력이 낮다.";
+"weapon.name.sniper" = "장거리 저격 소총";
+"weapon.description.sniper" = "대구경 단발식 저격 소총이었다. Pendulum 전쟁 동안 명령된 정부 연합에 의해 제작되었으며, Longshot은 Emergence Day 이후 17년 후에도 사용되었다.";
+"weapon.name.hammer_of_dawn" = "새벽의 망치";
+"weapon.description.hammer_of_dawn" = "새벽의 망치는 COG Imulsion으로 구동되는 위성 기반 궤도 레이저였다. 그 주요 부품들은 UIR의 과학자 Mauris Ivo에 의해 발명되었고, Operation: Livellatore 도중 도난당한 후 Adam Fenix 교수가 완성하였다.";
+"weapon.name.mx8" = "MX8 스너브 권총";
+"weapon.description.mx8" = "명령된 정부 연합군 병사들이 기본으로 사용하는 사이드암 무기였다.";
